@@ -1,0 +1,21 @@
+Hi Mark
+
+You can find all the code that I've used for verification and visualization here:
+https://colab.research.google.com/drive/1ht-MEvyao4GPm8VrE_IIByI3J1gsoEP4?usp=sharing#scrollTo=kBjilucoEZq3
+
+The code produces the attached map.
+
+If you have a Google Account, you may run this directly in Colab. You'll just need to upload the gifts.csv and any submission.csv. Let me know if you have any issues running it.
+
+I think this would help future students to focus more on the algorithmic part of the challenge.
+
+Best regards,
+Dennis
+
+Briner Dennis (brineden) <brineden@students.zhaw.ch>
+
+
+
+
+
+
